@@ -4,7 +4,7 @@ import Exercise1_4 from './practice/Exercise1_4';
 import Parent from './practice/Exercise5Parent';
 import Exercise6 from './practice/Exercise6';
 import ShowPosts from './practice/Exercise7ShowPosts';
-import Exercise8 from './practice/Exercise8';
+import Exercise8 from './practice/Exercise8_9';
 
 function App() {
   return (
