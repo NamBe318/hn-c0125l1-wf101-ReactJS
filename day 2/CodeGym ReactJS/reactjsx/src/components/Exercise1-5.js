@@ -1,6 +1,6 @@
 import React from "react";
 
-function Exercise1() {
+function Exercise1_5() {
     const welcome = (
         <h1>Chào mừng đến với React!</h1>
     );
@@ -52,4 +52,4 @@ function Exercise1() {
     );
 }
 
-export default Exercise1;
+export default Exercise1_5;

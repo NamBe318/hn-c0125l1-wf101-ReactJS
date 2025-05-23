@@ -1,4 +1,4 @@
-import react from "react";
+import React from "react";
 
 function Exercise6_10() {
   const link = (
